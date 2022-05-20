@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>new website</title>
+</head>
+<body>
+	<h1>hello . my name is talmeez</h1>
+	<p><b>aa tujhe in bahon mei bhar ky</b></p>
+	<a href="https://google.com" target="_blank" title="i am google">click here</a>
+	<p>his name is:<br>
+	sheruu</p>
+	<img src="https://media.nature.com/lw800/magazine-assets/d41586-020-01430-5/d41586-020-01430-5_17977552.jpg">
+</body>
+</html>
